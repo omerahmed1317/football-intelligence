@@ -1,0 +1,81 @@
+player_name,team_name,league_name,goals,assists,contributions,appearances,goals_per_game
+Harry Kane,Bayern Munich,Bundesliga,36,8,44,32,1.13
+Erling Haaland,Manchester City,Premier League,27,5,32,31,0.87
+Vinicius Junior,Real Madrid,La Liga,24,11,35,33,0.73
+Lautaro Martinez,Inter Milan,Serie A,24,7,31,33,0.73
+Jude Bellingham,Real Madrid,La Liga,23,13,36,35,0.66
+Cole Palmer,Chelsea,Premier League,22,11,33,33,0.67
+Phil Foden,Manchester City,Premier League,19,8,27,35,0.54
+Robert Lewandowski,Barcelona,La Liga,19,8,27,33,0.58
+Gianluca Scamacca,Atalanta,Serie A,19,6,25,32,0.59
+Mohamed Salah,Liverpool,Premier League,18,9,27,32,0.56
+Florian Wirtz,Bayer Leverkusen,Bundesliga,18,11,29,33,0.55
+Antoine Griezmann,Atletico Madrid,La Liga,17,8,25,36,0.47
+Ademola Lookman,Atalanta,Serie A,17,10,27,34,0.5
+Bukayo Saka,Arsenal,Premier League,16,9,25,35,0.46
+Dusan Vlahovic,Juventus,Serie A,16,4,20,33,0.48
+Raphinha,Barcelona,La Liga,15,9,24,34,0.44
+Rafael Leao,AC Milan,Serie A,15,10,25,32,0.47
+Victor Osimhen,Napoli,Serie A,15,5,20,25,0.6
+Victor Boniface,Bayer Leverkusen,Bundesliga,14,6,20,28,0.5
+Nicolas Jackson,Chelsea,Premier League,14,5,19,30,0.47
+Marcus Thuram,Inter Milan,Serie A,13,6,19,35,0.37
+Niclas Fullkrug,Borussia Dortmund,Bundesliga,13,4,17,30,0.43
+Paulo Dybala,Roma,Serie A,13,7,20,28,0.46
+Jamal Musiala,Bayern Munich,Bundesliga,12,8,20,32,0.38
+Gabriel Martinelli,Arsenal,Premier League,11,8,19,30,0.37
+Darwin Nunez,Liverpool,Premier League,11,4,15,29,0.38
+Hakan Calhanoglu,Inter Milan,Serie A,11,9,20,35,0.31
+Jarrod Bowen,West Ham,Premier League,11,8,19,32,0.34
+Khvicha Kvaratskhelia,Napoli,Serie A,11,8,19,28,0.39
+Ousmane Dembele,PSG,Ligue 1,10,8,18,30,0.33
+Son Heung-min,Tottenham,Premier League,10,7,17,30,0.33
+Bruno Fernandes,Manchester United,Premier League,10,8,18,35,0.29
+Rasmus Hojlund,Manchester United,Premier League,10,4,14,28,0.36
+Alvaro Morata,Atletico Madrid,La Liga,9,5,14,30,0.3
+Olivier Giroud,AC Milan,Serie A,9,3,12,28,0.32
+Bernardo Silva,Manchester City,Premier League,8,10,18,36,0.22
+Martin Odegaard,Arsenal,Premier League,8,11,19,33,0.24
+Dominik Szoboszlai,Liverpool,Premier League,8,5,13,34,0.24
+Kylian Mbappe,Real Madrid,La Liga,8,7,15,35,0.23
+Leroy Sane,Bayern Munich,Bundesliga,8,7,15,28,0.29
+Julian Brandt,Borussia Dortmund,Bundesliga,8,10,18,32,0.25
+Bradley Barcola,PSG,Ligue 1,8,7,15,28,0.29
+James Maddison,Tottenham,Premier League,8,9,17,28,0.29
+Kaoru Mitoma,Brighton,Premier League,8,6,14,28,0.29
+Declan Rice,Arsenal,Premier League,7,9,16,35,0.2
+Christian Pulisic,AC Milan,Serie A,7,7,14,30,0.23
+Federico Chiesa,Juventus,Serie A,7,5,12,22,0.32
+Alejandro Grimaldo,Bayer Leverkusen,Bundesliga,7,11,18,32,0.22
+Jonas Hofmann,Bayer Leverkusen,Bundesliga,7,9,16,30,0.23
+Marco Reus,Borussia Dortmund,Bundesliga,6,8,14,28,0.21
+Simon Adingra,Brighton,Premier League,6,5,11,25,0.24
+Gabriel Jesus,Arsenal,Premier League,5,4,9,26,0.19
+Rodrigo De Paul,Atletico Madrid,La Liga,5,6,11,32,0.16
+Theo Hernandez,AC Milan,Serie A,5,9,14,33,0.15
+Adrien Rabiot,Juventus,Serie A,5,6,11,30,0.17
+Granit Xhaka,Bayer Leverkusen,Bundesliga,5,10,15,34,0.15
+Vitinha,PSG,Ligue 1,5,9,14,32,0.16
+Lucas Paqueta,West Ham,Premier League,5,8,13,30,0.17
+Toni Kroos,Real Madrid,La Liga,4,7,11,30,0.13
+Pedri,Barcelona,La Liga,4,6,10,28,0.14
+Nicolo Barella,Inter Milan,Serie A,4,11,15,34,0.12
+Alessandro Bastoni,Inter Milan,Serie A,4,5,9,36,0.11
+Rodri,Manchester City,Premier League,3,9,12,34,0.09
+Virgil van Dijk,Liverpool,Premier League,3,3,6,33,0.09
+Trent Alexander-Arnold,Liverpool,Premier League,3,11,14,30,0.1
+Frenkie de Jong,Barcelona,La Liga,3,7,10,30,0.1
+Emre Can,Borussia Dortmund,Bundesliga,3,4,7,28,0.11
+Kevin De Bruyne,Manchester City,Premier League,2,7,9,18,0.11
+Luka Modric,Real Madrid,La Liga,2,8,10,32,0.06
+Gavi,Barcelona,La Liga,2,5,7,25,0.08
+Koke,Atletico Madrid,La Liga,2,7,9,35,0.06
+Manuel Locatelli,Juventus,Serie A,2,4,6,34,0.06
+Joshua Kimmich,Bayern Munich,Bundesliga,2,8,10,25,0.08
+Marquinhos,PSG,Ligue 1,2,3,5,35,0.06
+Jan Oblak,Atletico Madrid,La Liga,0,0,0,36,0.0
+Mike Maignan,AC Milan,Serie A,0,0,0,36,0.0
+Wojciech Szczesny,Juventus,Serie A,0,0,0,35,0.0
+Manuel Neuer,Bayern Munich,Bundesliga,0,0,0,28,0.0
+Gregor Kobel,Borussia Dortmund,Bundesliga,0,0,0,32,0.0
+Gianluigi Donnarumma,PSG,Ligue 1,0,0,0,36,0.0

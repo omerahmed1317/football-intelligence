@@ -1,0 +1,11 @@
+player_name,position,team_name,league_name,goals,market_value_m,goals_per_million
+Robert Lewandowski,ST,Barcelona,La Liga,19,25.0,0.76
+Gianluca Scamacca,ST,Atalanta,Serie A,19,35.0,0.543
+Niclas Fullkrug,ST,Borussia Dortmund,Bundesliga,13,25.0,0.52
+Paulo Dybala,CAM,Roma,Serie A,13,25.0,0.52
+Antoine Griezmann,CAM,Atletico Madrid,La Liga,17,40.0,0.425
+Ademola Lookman,RW,Atalanta,Serie A,17,40.0,0.425
+Alvaro Morata,ST,Atletico Madrid,La Liga,9,25.0,0.36
+Harry Kane,ST,Bayern Munich,Bundesliga,36,100.0,0.36
+Jonas Hofmann,RW,Bayer Leverkusen,Bundesliga,7,20.0,0.35
+Cole Palmer,CAM,Chelsea,Premier League,22,70.0,0.314

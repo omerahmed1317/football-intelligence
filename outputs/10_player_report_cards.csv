@@ -1,0 +1,81 @@
+player_name,position,age,nationality,team_name,league_name,goals,assists,contributions,avg_rating,market_value_m,tier
+Jude Bellingham,CAM,20,England,Real Madrid,La Liga,23,13,36,8.5,200.0,World Class
+Vinicius Junior,LW,23,Brazil,Real Madrid,La Liga,24,11,35,8.4,200.0,World Class
+Harry Kane,ST,30,England,Bayern Munich,Bundesliga,36,8,44,8.4,100.0,World Class
+Rodri,CDM,27,Spain,Manchester City,Premier League,3,9,12,8.3,120.0,World Class
+Florian Wirtz,CAM,20,Germany,Bayer Leverkusen,Bundesliga,18,11,29,8.3,130.0,World Class
+Lautaro Martinez,ST,26,Argentina,Inter Milan,Serie A,24,7,31,8.2,110.0,World Class
+Cole Palmer,CAM,21,England,Chelsea,Premier League,22,11,33,8.2,70.0,World Class
+Phil Foden,CAM,23,England,Manchester City,Premier League,19,8,27,8.1,150.0,World Class
+Bukayo Saka,RW,22,England,Arsenal,Premier League,16,9,25,8.0,150.0,World Class
+Rafael Leao,LW,24,Portugal,AC Milan,Serie A,15,10,25,8.0,90.0,World Class
+Jamal Musiala,CAM,21,Germany,Bayern Munich,Bundesliga,12,8,20,8.0,130.0,World Class
+Ademola Lookman,RW,26,Nigeria,Atalanta,Serie A,17,10,27,8.0,40.0,World Class
+Bernardo Silva,CM,29,Portugal,Manchester City,Premier League,8,10,18,7.9,100.0,Very Good
+Declan Rice,CDM,25,England,Arsenal,Premier League,7,9,16,7.9,120.0,Very Good
+Mohamed Salah,RW,31,Egypt,Liverpool,Premier League,18,9,27,7.9,80.0,Very Good
+Antoine Griezmann,CAM,33,France,Atletico Madrid,La Liga,17,8,25,7.9,40.0,Very Good
+Nicolo Barella,CM,27,Italy,Inter Milan,Serie A,4,11,15,7.9,80.0,Very Good
+Gianluca Scamacca,ST,25,Italy,Atalanta,Serie A,19,6,25,7.9,35.0,Very Good
+Erling Haaland,ST,23,Norway,Manchester City,Premier League,27,5,32,7.8,180.0,Very Good
+Martin Odegaard,CAM,25,Norway,Arsenal,Premier League,8,11,19,7.8,120.0,Very Good
+Luka Modric,CM,38,Croatia,Real Madrid,La Liga,2,8,10,7.8,15.0,Very Good
+Hakan Calhanoglu,CDM,30,Turkey,Inter Milan,Serie A,11,9,20,7.8,50.0,Very Good
+Granit Xhaka,CDM,31,Switzerland,Bayer Leverkusen,Bundesliga,5,10,15,7.8,25.0,Very Good
+Victor Osimhen,ST,25,Nigeria,Napoli,Serie A,15,5,20,7.8,120.0,Very Good
+Khvicha Kvaratskhelia,LW,23,Georgia,Napoli,Serie A,11,8,19,7.8,90.0,Very Good
+Virgil van Dijk,CB,32,Netherlands,Liverpool,Premier League,3,3,6,7.7,50.0,Very Good
+Toni Kroos,CM,34,Germany,Real Madrid,La Liga,4,7,11,7.7,20.0,Very Good
+Robert Lewandowski,ST,35,Poland,Barcelona,La Liga,19,8,27,7.7,25.0,Very Good
+Raphinha,RW,27,Brazil,Barcelona,La Liga,15,9,24,7.7,70.0,Very Good
+Alessandro Bastoni,CB,25,Italy,Inter Milan,Serie A,4,5,9,7.7,70.0,Very Good
+Mike Maignan,GK,28,France,AC Milan,Serie A,0,0,0,7.7,70.0,Very Good
+Victor Boniface,ST,22,Nigeria,Bayer Leverkusen,Bundesliga,14,6,20,7.7,50.0,Very Good
+Alejandro Grimaldo,LB,28,Spain,Bayer Leverkusen,Bundesliga,7,11,18,7.7,40.0,Very Good
+Ousmane Dembele,RW,26,France,PSG,Ligue 1,10,8,18,7.7,70.0,Very Good
+Vitinha,CM,24,Portugal,PSG,Ligue 1,5,9,14,7.7,60.0,Very Good
+Gianluigi Donnarumma,GK,25,Italy,PSG,Ligue 1,0,0,0,7.7,70.0,Very Good
+Paulo Dybala,CAM,30,Argentina,Roma,Serie A,13,7,20,7.7,25.0,Very Good
+Gabriel Martinelli,LW,22,Brazil,Arsenal,Premier League,11,8,19,7.6,90.0,Good
+Trent Alexander-Arnold,RB,25,England,Liverpool,Premier League,3,11,14,7.6,80.0,Good
+Kylian Mbappe,ST,25,France,Real Madrid,La Liga,8,7,15,7.6,180.0,Good
+Jan Oblak,GK,31,Slovenia,Atletico Madrid,La Liga,0,0,0,7.6,60.0,Good
+Theo Hernandez,LB,26,France,AC Milan,Serie A,5,9,14,7.6,70.0,Good
+Joshua Kimmich,CM,29,Germany,Bayern Munich,Bundesliga,2,8,10,7.6,70.0,Good
+Julian Brandt,CAM,27,Germany,Borussia Dortmund,Bundesliga,8,10,18,7.6,35.0,Good
+Marquinhos,CB,30,Brazil,PSG,Ligue 1,2,3,5,7.6,40.0,Good
+Son Heung-min,LW,31,South Korea,Tottenham,Premier League,10,7,17,7.6,50.0,Good
+James Maddison,CAM,27,England,Tottenham,Premier League,8,9,17,7.6,55.0,Good
+Bruno Fernandes,CAM,29,Portugal,Manchester United,Premier League,10,8,18,7.6,80.0,Good
+Jarrod Bowen,RW,27,England,West Ham,Premier League,11,8,19,7.6,55.0,Good
+Kevin De Bruyne,CM,32,Belgium,Manchester City,Premier League,2,7,9,7.5,100.0,Good
+Dominik Szoboszlai,CM,23,Hungary,Liverpool,Premier League,8,5,13,7.5,70.0,Good
+Pedri,CM,21,Spain,Barcelona,La Liga,4,6,10,7.5,120.0,Good
+Frenkie de Jong,CM,26,Netherlands,Barcelona,La Liga,3,7,10,7.5,80.0,Good
+Marcus Thuram,ST,26,France,Inter Milan,Serie A,13,6,19,7.5,65.0,Good
+Christian Pulisic,RW,25,USA,AC Milan,Serie A,7,7,14,7.5,45.0,Good
+Dusan Vlahovic,ST,24,Serbia,Juventus,Serie A,16,4,20,7.5,80.0,Good
+Jonas Hofmann,RW,31,Germany,Bayer Leverkusen,Bundesliga,7,9,16,7.5,20.0,Good
+Leroy Sane,RW,28,Germany,Bayern Munich,Bundesliga,8,7,15,7.5,60.0,Good
+Niclas Fullkrug,ST,31,Germany,Borussia Dortmund,Bundesliga,13,4,17,7.5,25.0,Good
+Gregor Kobel,GK,26,Switzerland,Borussia Dortmund,Bundesliga,0,0,0,7.5,40.0,Good
+Bradley Barcola,LW,21,France,PSG,Ligue 1,8,7,15,7.5,45.0,Good
+Nicolas Jackson,ST,22,Senegal,Chelsea,Premier League,14,5,19,7.5,45.0,Good
+Lucas Paqueta,CM,26,Brazil,West Ham,Premier League,5,8,13,7.5,60.0,Good
+Kaoru Mitoma,LW,26,Japan,Brighton,Premier League,8,6,14,7.5,55.0,Good
+Koke,CM,32,Spain,Atletico Madrid,La Liga,2,7,9,7.4,15.0,Good
+Federico Chiesa,RW,26,Italy,Juventus,Serie A,7,5,12,7.4,60.0,Good
+Wojciech Szczesny,GK,34,Poland,Juventus,Serie A,0,0,0,7.4,10.0,Good
+Marco Reus,CAM,34,Germany,Borussia Dortmund,Bundesliga,6,8,14,7.4,5.0,Good
+Rasmus Hojlund,ST,21,Denmark,Manchester United,Premier League,10,4,14,7.4,60.0,Good
+Simon Adingra,RW,22,Ivory Coast,Brighton,Premier League,6,5,11,7.4,30.0,Good
+Gavi,CM,19,Spain,Barcelona,La Liga,2,5,7,7.3,100.0,Average
+Rodrigo De Paul,CM,29,Argentina,Atletico Madrid,La Liga,5,6,11,7.3,40.0,Average
+Olivier Giroud,ST,37,France,AC Milan,Serie A,9,3,12,7.3,5.0,Average
+Adrien Rabiot,CM,28,France,Juventus,Serie A,5,6,11,7.3,30.0,Average
+Manuel Neuer,GK,38,Germany,Bayern Munich,Bundesliga,0,0,0,7.3,8.0,Average
+Darwin Nunez,ST,24,Uruguay,Liverpool,Premier League,11,4,15,7.2,80.0,Average
+Alvaro Morata,ST,31,Spain,Atletico Madrid,La Liga,9,5,14,7.2,25.0,Average
+Manuel Locatelli,CDM,26,Italy,Juventus,Serie A,2,4,6,7.2,35.0,Average
+Emre Can,CDM,30,Germany,Borussia Dortmund,Bundesliga,3,4,7,7.2,20.0,Average
+Gabriel Jesus,ST,27,Brazil,Arsenal,Premier League,5,4,9,7.1,60.0,Average

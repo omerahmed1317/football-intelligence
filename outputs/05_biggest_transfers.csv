@@ -1,0 +1,16 @@
+player_name,position,from_team,to_team,transfer_fee_m,transfer_type
+Declan Rice,CDM,West Ham,Arsenal,105.0,Permanent
+Jude Bellingham,CAM,Borussia Dortmund,Real Madrid,103.0,Permanent
+Harry Kane,ST,Tottenham,Bayern Munich,100.0,Permanent
+Rasmus Hojlund,ST,Manchester United,Manchester United,72.0,Permanent
+Dominik Szoboszlai,CM,RB Leipzig,Liverpool,70.0,Permanent
+Cole Palmer,CAM,Manchester City,Chelsea,40.0,Permanent
+Ademola Lookman,RW,Fiorentina,Atalanta,25.0,Permanent
+Gianluca Scamacca,ST,West Ham,Atalanta,22.5,Permanent
+Granit Xhaka,CDM,Arsenal,Bayer Leverkusen,15.0,Permanent
+Kylian Mbappe,ST,PSG,Real Madrid,0.0,Free
+Florian Wirtz,CAM,Bayer Leverkusen,Bayer Leverkusen,0.0,Contract
+Jamal Musiala,CAM,Bayern Munich,Bayern Munich,0.0,Contract
+Khvicha Kvaratskhelia,LW,Napoli,Napoli,0.0,Contract
+Rafael Leao,LW,AC Milan,AC Milan,0.0,Contract
+Marcus Thuram,ST,Monchengladbach,Inter Milan,0.0,Free
